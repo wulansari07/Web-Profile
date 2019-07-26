@@ -1,0 +1,56 @@
+html{
+	scroll-behavior : smooth;
+}
+
+
+.bg{
+	background-color : black;
+}
+
+.text{
+	font-size : 70px; 
+	color : white;
+	font-family : Mooka;
+}
+
+.ukuran{
+	width : 100%;
+}
+
+.color{
+	color : white;
+	font-size : 50px;
+	font-family : Mooka;
+}
+
+.war1{
+	font-family : Primrose;
+}
+
+.warna{
+	color : white;
+	font-family : Peaches For Breakfast;
+	font-size : 60px;
+}
+
+.hm{
+	color : white;
+	font-size : 30px;
+	background-color : #362e2e;
+}
+
+.apa{
+	color : white;
+	font-size : 50px;
+	font-family : Mooka;
+}
+
+.bio{
+	color : white;
+	font-family : Peaches For Breakfast;
+}
+
+.sect3{
+	background-color : #362e2e;
+	width: 100%;
+}
